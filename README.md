@@ -13,7 +13,7 @@ git clone https://github.com/harilvfs/themes
 ### 2. Change to the Cloned Directory
 Navigate into the directory that contains the themes:
 ```
-cd themes
+cd themes/
 ```
 
 ### 3. Install the Themes
