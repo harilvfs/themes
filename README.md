@@ -1,17 +1,15 @@
-# Theme Collection
+## Theme Collection
 
 A collection of themes compatible with Linux window managers and desktops.
 
-## Installation Instructions
+## Installation
 
-### 1. Clone the Repository
-First, clone this repository to your local machine:
+### Clone the Repository
 ```bash
 git clone https://github.com/harilvfs/themes
 ```
 
-### 2. Change to the Cloned Directory
-Navigate into the directory that contains the themes:
+### Change to the Cloned Directory
 ```
 cd themes/
 ```
@@ -37,35 +35,35 @@ mv * ~/.config/themes/
 
 For Qt applications, **Kvantum** is used to apply themes. Here’s how to set up Kvantum with this theme collection:
 
-### 1. Clone the Theme Collection
+### Clone the Theme Collection
 
 ```bash
 git clone https://github.com/harilvfs/themes
 ```
 
-### 2. Change to the themes dir
+### Change to the themes dir
 
 ```bash
 cd themes/
 ```
 
-### 3. Copy Kvantum Themes
+### Copy Kvantum Themes
 
 ```bash
 cp -r Kvantum ~/.config/Kvantum
 ```
 
-### 4. Apply Kvantum Themes
+### Apply Kvantum Themes
 
 Once the themes are in place, use the Kvantum Manager to select and apply the desired theme:
 
-1. Open **Kvantum Manager**: You can launch it from your desktop environment or by running:
+Open **Kvantum Manager**: You can launch it from your desktop environment or by running:
 
 ```bash
 kvantummanager
 ```
 
-2. Under the "Change/Delete Theme" tab, select the theme you want from the list and apply it.
+Under the "Change/Delete Theme" tab, select the theme you want from the list and apply it.
 
 ## Package Requirements
 
