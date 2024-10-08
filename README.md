@@ -33,6 +33,38 @@ mkdir -p ~/.config/themes
 mv * ~/.config/themes/
 ```
 
+## Kvantum Setup Guide
+
+For Qt applications, **Kvantum** is used to apply themes. Here’s how to set up Kvantum with this theme collection:
+
+### 1. Clone the Kvantum Theme Collection
+
+To use the Kvantum themes, first clone the Kvantum-specific theme repository:
+
+```bash
+git clone https://github.com/harilvfs/themes
+```
+
+### 2. Copy Kvantum Themes
+
+Move or copy the Kvantum themes to your local Kvantum configuration directory. This will ensure Kvantum can detect and apply the themes:
+
+```bash
+cp -r Kvantum ~/.config/Kvantum
+```
+
+### 3. Apply Kvantum Themes
+
+Once the themes are in place, use the Kvantum Manager to select and apply the desired theme:
+
+1. Open **Kvantum Manager**: You can launch it from your desktop environment or by running:
+
+```bash
+kvantummanager
+```
+
+3. Under the "Change/Delete Theme" tab, select the theme you want from the list and apply it.
+
 ## Package Requirements
 
 Depending on whether you're using **X11** or **Wayland**, you’ll need to install specific packages to manage your themes.
