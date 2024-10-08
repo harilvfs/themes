@@ -43,13 +43,19 @@ For Qt applications, **Kvantum** is used to apply themes. Here’s how to set up
 git clone https://github.com/harilvfs/themes
 ```
 
-### 2. Copy Kvantum Themes
+### 2. Change to the themes dir
+
+```bash
+cd themes/
+```
+
+### 3. Copy Kvantum Themes
 
 ```bash
 cp -r Kvantum ~/.config/Kvantum
 ```
 
-### 3. Apply Kvantum Themes
+### 4. Apply Kvantum Themes
 
 Once the themes are in place, use the Kvantum Manager to select and apply the desired theme:
 
