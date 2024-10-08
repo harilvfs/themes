@@ -1,6 +1,6 @@
 # Theme Collection
 
-A collection of themes compatible Linux window managers and desktops.
+A collection of themes compatible with Linux window managers and desktops.
 
 ## Installation Instructions
 
