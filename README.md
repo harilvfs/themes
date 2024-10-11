@@ -14,7 +14,7 @@ git clone https://github.com/harilvfs/themes
 cd themes/
 ```
 
-### 3. Install the Themes
+### Install the Themes
 
 You have two options to install the themes:
 
