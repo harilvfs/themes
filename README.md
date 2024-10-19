@@ -1,3 +1,6 @@
+![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/harilvfs/themes)
+![GitHub repo size](https://img.shields.io/github/repo-size/harilvfs/themes)
+
 ## Theme Collection
 
 A collection of themes compatible with Linux window managers and desktops.
