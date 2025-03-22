@@ -1,5 +1,5 @@
-![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/harilvfs/themes)
-![GitHub repo size](https://img.shields.io/github/repo-size/harilvfs/themes)
+![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/harilvfs/themes?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/harilvfs/themes?style=for-the-badge)
 
 ## Theme Collection
 
